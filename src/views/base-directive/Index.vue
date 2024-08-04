@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <router-view />
+  <h1>Vue 基础-指令</h1>
 </template>
 
 <style scoped>

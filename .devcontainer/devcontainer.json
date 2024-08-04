@@ -13,7 +13,8 @@
       "extensions": [
         "Vue.volar",
         "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "sdras.vue-vscode-snippets"
       ]
     }
   },
